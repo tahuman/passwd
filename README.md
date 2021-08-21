@@ -1,2 +1,2 @@
 # password
-### making password program
+### This program is making password(16 letters)
